@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-first-app"
+    }
+  },
+  "defaultProject": "my-first-app",
+  "cli": {
+    "analytics": "23a10c1b-e8ab-421a-9fcd-1e3be91b5f99"
+  }
 }
